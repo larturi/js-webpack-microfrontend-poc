@@ -5,6 +5,8 @@
 <http://localhost:8082>
 
 ```bash
+cd cart
+
 npm install
 
 npm run start
@@ -15,6 +17,8 @@ npm run start
 <http://localhost:8081>
 
 ```bash
+cd products
+
 npm install
 
 npm run start
@@ -25,6 +29,8 @@ npm run start
 <http://localhost:8080>
 
 ```bash
+cd container
+
 npm install
 
 npm run start
